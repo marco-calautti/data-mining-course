@@ -8,7 +8,7 @@ These are materials for an undergraduate Data Mining course of the bachelor degr
 
 ## Contents of this repository
 
-* [Theory](theory/README.md): slides for the theory part.
+* :chart_with_upwards_trend: [Theory](theory/README.md): slides for the theory part.
 * :construction: [Practicum](practicum/README.md): activities for practical sessions.
 * :construction: [Datasets](practicum/data/README.md): to be used during practical sessions.
 
