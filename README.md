@@ -2,7 +2,7 @@
 
 Instructor: [Carlos Castillo](http://chato.cl/research)
 
-These are materials for an undergraduate Data Mining course of the bachelor degree on Mathematical Engineering on Data Science at Universitat Pompeu Fabra.
+These are materials for an undergraduate course on **Data Mining**. They were developed for third year students of the bachelor degree on *Mathematical Engineering on Data Science* at Universitat Pompeu Fabra, Barcelona.
 
 :construction: The materials on this page are a work-in-progress for the course to be delivered September-December 2019. Until the end of the course, none of this material can be considered final.
 
