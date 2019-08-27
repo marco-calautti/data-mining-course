@@ -14,6 +14,6 @@ These are materials for an undergraduate course on **Data Mining**. They were de
 
 Material specific to UPF students:
 
-* :no_entry_sign: [Course presentation](upf/upf-course-presentation.md): general aspects of the course at UPF ("*plan docente*").
-* :no_entry_sign: [Evaluation rules](upf/upf-evaluation.md) for course at UPF.
-* :no_entry_sign: [Calendar](upf/upf-calendar.md) for course at UPF.
+* :scroll: [Course presentation](upf/upf-course-presentation.md): general aspects of the course at UPF ("*plan docente*").
+* :mortar_board: [Evaluation rules](upf/upf-evaluation.md) for course at UPF.
+* :calendar: [Calendar](upf/upf-calendar.md) for course at UPF.
