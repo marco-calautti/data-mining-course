@@ -17,3 +17,5 @@ Material specific to UPF students:
 * :scroll: [Course presentation](upf/upf-course-presentation.md): general aspects of the course at UPF ("*plan docente*").
 * :mortar_board: [Evaluation rules](upf/upf-evaluation.md) for course at UPF.
 * :calendar: [Calendar](upf/upf-calendar.md) for course at UPF.
+
+[<img src="upf/cc-by-80x15.png" width="80" height="15" hspace="4"/>](https://creativecommons.org/licenses/by/4.0/) All course materials are available under a [Creative Commons](https://creativecommons.org/licenses/by/4.0/) license unless specified otherwise.
