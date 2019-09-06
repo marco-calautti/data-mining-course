@@ -18,4 +18,8 @@ Material specific to UPF students:
 * :mortar_board: [Evaluation rules](upf/upf-evaluation.md) for course at UPF.
 * :calendar: [Calendar](upf/upf-calendar.md) for course at UPF.
 
+# Acknowledgments
+
+I am thankful to Aris Gionis and Aris Anagnostopoulos for their comments on an earlier version of these materials. Thanks to Miguel Angel Cordobés for his work on several of the practical sessions.
+
 [<img src="upf/cc-by-80x15.png" width="80" height="15" hspace="4"/>](https://creativecommons.org/licenses/by/4.0/) All course materials are available under a [Creative Commons](https://creativecommons.org/licenses/by/4.0/) license unless specified otherwise.
