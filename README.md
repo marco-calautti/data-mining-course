@@ -11,6 +11,7 @@ These are materials for an undergraduate course on **Data Mining**. They were de
 * :chart_with_upwards_trend: [Theory](theory/README.md): slides for the theory part.
 * :computer: [Practicum](practicum/README.md): activities for practical sessions.
 * :file_folder: [Datasets](practicum/data/README.md): to be used during practical sessions.
+* :pencil: [Exams](exams/README.md) from previous and current year.
 
 Material specific to UPF students:
 
