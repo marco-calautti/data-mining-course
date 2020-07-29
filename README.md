@@ -1,17 +1,17 @@
 # Data Mining Course
 
-Instructor: [Carlos Castillo](http://chato.cl/research)
+Instructor: [Carlos Castillo](https://chato.cl/)
 
-These are materials for an undergraduate course on **Data Mining**. They were developed for third year students of the bachelor degree on *Mathematical Engineering on Data Science* at Universitat Pompeu Fabra, Barcelona.
-
-:construction: materials should not be considered final until the end of the course. The 2020 edition will be the first one to be done mostly online.
+These are materials for a twelve-weeks undergraduate course on **Data Mining**, and include two-hour lectures and two-hour practice sessions every week. They were developed for third year students of the bachelor degree on *Mathematical Engineering on Data Science* at Universitat Pompeu Fabra, Barcelona.
 
 * *"Exciting and really helpful for our future as data scientists"* -- a student from the 2019 edition
 * *"A lot of work. However, the theory and practice materials are excellent"* -- a student from the 2019 edition
 
 ## Contents of this repository
 
-* :chart_with_upwards_trend: [Theory](theory/README.md): slides for the theory part.
+:construction: These materials should not be considered final until the end of the course.
+
+* :chart_with_upwards_trend: [Theory](theory/README.md): slides and planning for the theory part.
 * :computer: [Practicum](practicum/README.md): activities for practical sessions.
 * :file_folder: [Datasets](practicum/data/README.md): to be used during practical sessions.
 * :pencil: [Exams](exams/README.md) from previous and current year.
@@ -21,6 +21,8 @@ Material specific to UPF students:
 * :scroll: [Course presentation](upf/upf-course-presentation.md): general aspects of the course at UPF ("*plan docente*").
 * :mortar_board: [Evaluation rules](upf/upf-evaluation.md) for course at UPF.
 * :calendar: [Calendar](upf/upf-calendar.md) for course at UPF.
+
+This course was adapted for online learning in 2020. The main changes are that theory lessons are divided into smaller modules, there is only one midterm exam instead of two, no two-people assignments are requested, and individual practices are a little bit longer but more time is given to complete them.
 
 # Acknowledgments
 
