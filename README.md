@@ -4,7 +4,7 @@ Instructor: [Carlos Castillo](http://chato.cl/research)
 
 These are materials for an undergraduate course on **Data Mining**. They were developed for third year students of the bachelor degree on *Mathematical Engineering on Data Science* at Universitat Pompeu Fabra, Barcelona.
 
-:construction: I am preparing the contents for the 2020 edition, which should not be considered final until the end of the course. If you want to consult the materials from the previous edition, check the other branches of this repository.
+:construction: materials should not be considered final until the end of the course. The 2020 edition will be the first one to be done mostly online.
 
 * *"Exciting and really helpful for our future as data scientists"* -- a student from the 2019 edition
 * *"A lot of work. However, the theory and practice materials are excellent"* -- a student from the 2019 edition
