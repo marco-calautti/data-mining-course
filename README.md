@@ -9,7 +9,7 @@ These are materials for a twelve-weeks undergraduate course on **Data Mining**, 
 
 ## Contents of this repository
 
-:construction: These materials should not be considered final until the end of the course.
+:construction: These materials should not be considered final until he end of the course.
 
 * :chart_with_upwards_trend: [Theory](theory/README.md): slides and planning for the theory part.
 * :computer: [Practicum](practicum/README.md): activities for practical sessions.
