@@ -1,6 +1,6 @@
 # Data Mining Course
 
-Instructor: [Carlos Castillo](https://chato.cl/)
+Instructor:  [Carlos Castillo](https://chato.cl/)
 
 These are materials for a twelve-weeks undergraduate course on **Data Mining**, and include two-hour lectures and two-hour practice sessions every week. They were developed for third year students of the bachelor degree on *Mathematical Engineering on Data Science* at Universitat Pompeu Fabra, Barcelona.
 
