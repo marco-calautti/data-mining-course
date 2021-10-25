@@ -9,3 +9,9 @@ The relative difficulty of exams may vary from year to year, as the emphasis on 
 * Second midterm: [ex02](2019-ex02.pdf)
 * Final exam: [exFF](2019-exFF.pdf)
 * Resit exam (oral): [exRR](2019-exRR.pdf)
+
+## Exams from 2020
+
+* Midterm: [ex01](2020-ex01.pdf)
+* Final exam: [exFF](2020-exFF.pdf)
+* Resit exam (oral): [exRR](2020-exRR.pdf)
