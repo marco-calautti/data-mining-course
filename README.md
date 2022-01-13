@@ -4,6 +4,7 @@ Instructor:  [Carlos Castillo](https://chato.cl/)
 
 These are materials for a twelve-weeks undergraduate course on **Data Mining**, and include two-hour lectures and two-hour practice sessions every week. They were developed for third year students of the bachelor degree on *Mathematical Engineering on Data Science* at Universitat Pompeu Fabra, Barcelona.
 
+* *"It is special to get a glimpse of what it is to be a data scientist for real. Something bad is the work required for the practicum, which is a bit too much"* -- a student from the 2021 edition
 * *"I found this subject especially interesting and useful for our future as data scientists. The practices were reflecting the theory concepts and
 were very guided which I really appreciated. Also, good point that the datasets were so updated."* -- a student from the 2020 edition
 * *"The learning methodology is excelent and students are given quality materials for learning. As a negative point, the workload is excessive"* -- a student from the 2020 edition 
