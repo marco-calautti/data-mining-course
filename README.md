@@ -8,7 +8,7 @@ These are materials for a twelve-weeks undergraduate course on **Data Mining**, 
 * *"I could say this is the best subject I've had during the studies"* -- a student from the 2021 edition
 * *"I found this subject especially interesting and useful for our future as data scientists. The practices were reflecting the theory concepts and
 were very guided which I really appreciated. Also, good point that the datasets were so updated."* -- a student from the 2020 edition
-* *"The learning methodology is excelent and students are given quality materials for learning. As a negative point, the workload is excessive"* -- a student from the 2020 edition 
+* *"The learning methodology is excelent and students are given quality materials for learning. As a negative point, the workload is excessive"* -- a student from the 2020 edition
 * *"A lot of work in the practices, but it was helpful"* -- a student from the 2020 edition
 * *"Exciting and really helpful for our future as data scientists"* -- a student from the 2019 edition
 * *"A lot of work. However, the theory and practice materials are excellent"* -- a student from the 2019 edition
@@ -27,8 +27,6 @@ Material specific to UPF students:
 * :scroll: [Course presentation](upf/upf-course-presentation.md): general aspects of the course at UPF ("*plan docente*").
 * :mortar_board: [Evaluation rules](upf/upf-evaluation.md) for course at UPF.
 * :calendar: [Calendar](upf/upf-calendar.md) for course at UPF.
-
-This course will be delivered face to face in 2021, although it was adapted for online learning in 2020. The main changes were that theory lessons are divided into smaller modules, there is only one midterm exam instead of two, no two-people assignments are requested, and individual practices are a little bit longer but more time is given to complete them. 
 
 # Acknowledgments
 
