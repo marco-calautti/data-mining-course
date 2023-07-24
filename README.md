@@ -1,4 +1,4 @@
-"# Data Mining Course
+# Data Mining Course
 
 Instructor for 2022: [Teodora Sandra Buda](https://tbuda.github.io/) based on a course by Carlos Castillo.
 
