@@ -4,7 +4,7 @@ Instructor for 2022: [Teodora Sandra Buda](https://tbuda.github.io/) based on a 
 
 These are materials for a twelve-weeks undergraduate course on **Data Mining**, and include two-hour lectures and two-hour practice sessions every week. They were developed for third year students of the bachelor degree on *Mathematical Engineering on Data Science* at Universitat Pompeu Fabra, Barcelona.
 
-* *"A very interesting subject for students of data science. In practice sessions, you complete your understanding of the theory concepts." -- a student from the 2022 edition
+* *"A very interesting subject for students of data science. In practice sessions, you complete your understanding of the theory concepts."* -- a student from the 2022 edition
 * *"I could say this is the best subject I've had during the studies"* -- a student from the 2021 edition
 * *"A lot of work in the practices, but it was helpful"* -- a student from the 2020 edition
 * *"A lot of work. However, the theory and practice materials are excellent"* -- a student from the 2019 edition
